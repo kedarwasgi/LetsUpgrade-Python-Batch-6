@@ -1,2 +1,2 @@
 # LetsUpgrade-Python-Batch-6
-#LetsUpgrade, learnig python from LetsUpgrade
+#LetsUpgrade, Learnig python from LetsUpgrade
